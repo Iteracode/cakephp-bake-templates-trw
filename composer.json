@@ -3,6 +3,7 @@
     "description": "A better cake bake generation",
     "type": "cakephp-plugin",
     "license": "MIT",
+    "version": "1.0.0",
     "require": {
         "cakephp/cakephp": "^3.5",
         "cakephp/bake": "^1.1"
